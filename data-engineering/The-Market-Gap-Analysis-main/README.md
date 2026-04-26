@@ -14,7 +14,7 @@ An analysis of over **500,000 food products** from the Open Food Facts global da
 | Deliverable | Link |
 |---|---|
 | 📓 Notebook (Google Colab) | [[(https://colab.research.google.com/drive/1w23DT2cL27kSYMv3fzMUdkAoYgJjbe23?usp=sharing)] |
-| 📊 Dashboard (Streamlit Cloud) | [Add your Streamlit link here] |
+| 📊 Dashboard (Streamlit Cloud) | [[Add your Streamlit link here](https://amalitech-deg-project-based-challenges-rxuzagabzsnvumlc88adou.streamlit.app/)] |
 | 🎞️ Presentation (Slides) | [Add your Google Slides / PDF link here] |
 | 🎥 Video Walkthrough (Optional) | [Add your YouTube link here] |
 
