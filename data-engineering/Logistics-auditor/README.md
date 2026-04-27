@@ -15,10 +15,9 @@ An audit of **~100,000 delivered orders** from the Olist Brazilian E-Commerce da
 |---|---|
 | 📓 Notebook (Google Colab) | [https://colab.research.google.com/drive/1hBHuvKl_vPyBLldeUUv3ueWdc6SVfI-6?usp=sharing] |
 | 📊 Dashboard (Streamlit Cloud) | [https://datastudio.google.com/reporting/a7c7939b-be49-4193-8a57-dde151735bb7] |
-| 🎞️ Presentation (Slides) | [Add your Google Slides / PDF link here] |
+| 🎞️ Presentation (Slides) | [https://docs.google.com/presentation/d/1-Y1E3LURQo1bICamZ-NTjrLpOoklrUJ7CtJWGBWGDeE/edit?usp=sharing] |
 | 🎥 Video Walkthrough (Optional) | [Add your YouTube link here] |
 
-> ⚠️ **Before submitting:** Test all links in an Incognito/Private browser window to verify public access.
 
 ---
 
